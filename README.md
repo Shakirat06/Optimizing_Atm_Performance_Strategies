@@ -18,7 +18,7 @@ With the power of data analytics and a customer-centric approach, this project a
   availability and ensuring customer satisfaction.
 - Evaluate ATM Performance Assessing the performance of individual ATMs and comparing performance across different locations will help us identify areas of improvement and prioritize resource allocation.
   Optimize ATM Servicing and Maintenance By evaluating maintenance schedules and correlating them with ATM performance, we can optimize servicing to prevent downtime and disruptions.
-
+***
 ![](Tools.PNG)
 
 ## Tools used
