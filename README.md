@@ -1,13 +1,13 @@
 # Optimizing_Atm_Performance_Strategies
 
 ![](Capture.PNG)
-
+***
 ## INTRODUCTION
 
 In today's rapidly evolving banking landscape, customer retention has emerged as a critical success factor for financial institutions. The ability to retain loyal customers directly impacts profitability, market share, and brand reputation. One significant touchpoint with customers is the Automated Teller Machine (ATM), which remains a fundamental channel for cash withdrawal and various banking transactions. In light of the importance of customer retention, we embark on a transformative Business Intelligence and Data Analytics project aimed at exploring data-driven strategies for optimizing ATM performance and, in turn, enhancing customer retention. By harnessing the power of data analytics, we seek to unlock valuable insights that will enable us to better understand customer behavior, improve operational efficiency, and ultimately cultivate lasting customer relationships.
 
 ![](Intro.PNG)
-
+***
 ## OBJECTIVES
 
 With the power of data analytics and a customer-centric approach, this project aspires to empower financial institutions with the tools to make informed decisions that drive customer retention and loyalty. By optimizing ATM performance, banks can not only improve operational efficiency but also deliver an exceptional customer experience that nurtures lasting relationships and positions them for sustained success in today's competitive financial landscape.
@@ -41,16 +41,16 @@ Most of my data transformation processes were executed on PostgreSQL Database. I
 ![](Transformation1.PNG) 
 ## Example3 
 ![](Transformation2.PNG)
-
+***
 ## Data Modelling
 I implemented the snowflake model, connecting all my facts and dimensions seamlessly. I utilized the import storage mode to bring in my data into Power BI, where I established relationships. The majority of these relationships have a one-to-many cardinality, and a single filter direction was applied, as illustrated in the screenshot below.
 
 ## Snowflakeschema
 ![](model.PNG)
-
+***
 ## Relationship
 ![](relationship.PNG)
-
+***
 ## Analysis and visualization
 
 1. A comprehensive examination spanning four years uncovered a total of 6.52 million ATM transactions from 2019 to 2022, with a notable peak in March 2022.
@@ -66,10 +66,10 @@ I implemented the snowflake model, connecting all my facts and dimensions seamle
 
 ## Maintenance Report
 ![](Analy_vizual2.PNG)
-
+***
 ## Conclusion
 As I wrap up my journey, the lesson is clear. ATMs are not just machines; they are financial gateways. The least maintained machines must be nurtured, and the ATMs close to student environments require special care. It's time for banks and financial institutions to embrace data-driven optimization, enhancing the customer experience and making the ATM an efficient and reliable friend to all. **_Click here to view full reports [Here](https://app.powerbi.com/view?r=eyJrIjoiYzViNDdkMjUtNTBmMS00YjM4LWI5MzktOGM1YjMyNTRjYTk1IiwidCI6ImZiNjI0Y2ZkLWQzYjEtNGIwYi05NmQxLThkMzg3ZWQxYmMyZSIsImMiOjh9)_**
-
+***
 ## Recommendations
 
 - The Road Ahead The journey to ATM excellence continues, with newfound insights and a roadmap to unlock its hidden potential. The future lies in the integration of cutting-edge technologies like biometrics,        artificial intelligence, and contactless payments. By embracing digital transformation, the ATM experience will become faster, more secure, and seamlessly connected to the wider world of financial services.
@@ -77,7 +77,7 @@ As I wrap up my journey, the lesson is clear. ATMs are not just machines; they a
 - Empowering Customers Empowering the customers should be at the heart of every ATM strategy. Implementing personalized experiences, offering tailored financial advice, and providing seamless integration between    the digital and physical banking worlds will turn ATMs into trusted companions in customers' financial journeys. By making the ATM experience delightful and efficient, financial institutions will build            stronger relationships with their customers and drive loyalty.
 
 - Maximizing Security In an era of increasing cyber threats, security is paramount. Banks must invest in robust security measures to protect both the customers' transactions and their personal information.          Enhanced encryption, biometric authentication, and continuous monitoring are essential components of a secure ATM network. By prioritizing security, banks can ensure the trust and confidence of their customers    in the ATM ecosystem.
-
+***
   ![](Thank_you.jpg)
 
  ## **_Thanks for reading 🙇‍♀️_**
